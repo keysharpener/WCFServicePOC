@@ -1,0 +1,2 @@
+# WCFServicePOC
+Kata on WCF
